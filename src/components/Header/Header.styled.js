@@ -17,7 +17,7 @@ const ItemNav = styled(NavLink)`
   color: white;
 
   &.active {
-    color: red;
+    color: tomato;
   }
 `;
 

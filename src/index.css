@@ -37,3 +37,11 @@ button {
   border: none;
   outline: none;
 }
+
+li {
+  font-family: Andale Mono, monospace;
+}
+
+a {
+  color: #32250d;
+}
